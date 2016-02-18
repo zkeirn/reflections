@@ -1,0 +1,10 @@
+how can you use the commands git log and git diff to view the history of files?
+
+   git log shows all recent commits with comments
+   git diff will show the difference between any two commits. The most recent commit is on top, previous below in the list
+ wq
+
+how might using version control make you more confident to make changes that could break something?
+
+   you know you can always go back to working code. 
+
