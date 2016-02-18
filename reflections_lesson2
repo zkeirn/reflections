@@ -1,2 +1,4 @@
 What  happens when you initialize a repository? Why do you need to do it?
    It creates a .git file to keep meta data in
+How is the staging area different from the working directory and repository? What value does it offer
+   just a holding place so you can control what will be added to repository. Allows control
